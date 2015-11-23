@@ -3,3 +3,4 @@
 - [ ] **A favorite food** : Chicken
 - [ ] **A hobby** : Learning and Sharing
 - [ ] **Favorite color** : Blue
+- [ ] **Favorite Movie** : 3 Idiot
